@@ -1,0 +1,11 @@
+- "PT-BR"
+- 👋 <strong>Olá, I’m @dev-kage</strong>
+- 👀 Gosto de tecnologia, games, música e redes sociais <strong>(sou social media)</strong>
+- 🌱 Recentemente comecei nesse mundo de dev e estou muito encantado com o Front End e estou me dedicando e aprendendo diariamente
+- 💞️ Estou aqui para aprender e compartilhar algo que também possa ajudar.
+
+-"US"
+- 👋 <strong> Hi, I’m @dev-kage </strong>
+- 👀 I like technology, games, music and social media <strong> (I am a social media manager) </strong>
+- 🌱 I recently started in this dev world and I am very delighted with Front End and I am dedicating myself and learning daily
+- 💞️ I'm here to learn and share something that might also help.
